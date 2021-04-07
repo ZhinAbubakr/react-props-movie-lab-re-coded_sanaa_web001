@@ -25,7 +25,7 @@ const posterMap = {
   'terrance-king': tkr,
   'the-trash-man': ttm,
   'default': defaultPoster
-}
+};
 
 export default class MovieCard extends Component {
 
